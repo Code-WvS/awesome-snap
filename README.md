@@ -19,6 +19,9 @@ Awesome Snap!
   - [Bags - Build Your Own Relations](http://bags.cs.jmu.edu/) ([source](http://bags.cs.jmu.edu/download.html)) - Snap!-like database queries
   - [CSnap](https://community.csdt.rpi.edu/) ([source](https://github.com/GK-12/Snap--Build-Your-Own-Blocks)) - Bringing Culture and Social Justice to Programming
   - [turtlestitch](http://www.stitchcode.com/) ([source](https://github.com/backface/turtlestitch)) - turtle graphics for stitchfile generation :de:
+  - [Snapi](https://bromagosa.github.io/Snapi/) ([source](https://github.com/bromagosa/Snapi)) - Snap! with geographics and JSON API features
+  - Snapapps [Scribble](https://aidanlane.github.io/snapapps/scribble.html), [ARDrone](https://aidanlane.github.io/snapapps/ardrone.html), [Cellular](https://aidanlane.github.io/snapapps/cellular.html)  ([sources](https://github.com/aidanlane/snapapps)) - 3 special-purpose Snap! modifications
+  - [Snap-graphics](https://github.com/cycomachead/snap-graphics) - Computational photography for introductory computer science curriculum
 
 - tools
   - [Snapext](http://github.com/blockext) - python library for creating Snap! extensions
@@ -34,12 +37,6 @@ Awesome Snap!
 
 - misc
   - [New Website for UC Berkeley Snap!](https://khotchkiss13.github.io/) ([source](https://github.com/khotchkiss13/khotchkiss13.github.io)) 
-  
-- links that need to be sorted yet
-  - https://github.com/bromagosa/Snapi
-  - https://github.com/aidanlane/snapapps - Scribble - A generative art program
-  - https://github.com/cycomachead/snap-graphics - Graphics Extensions for Snap!
-  - https://github.com/bromagosa/snappyCity - Snap! part of the SnappyCity project
 
 License
 -------
