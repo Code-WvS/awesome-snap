@@ -10,6 +10,8 @@ Awesome Snap!
   - [Snap-File-IO](https://github.com/technoboy10/snap-file-io) - basic file IO for Snap!
   - [rssnap](https://github.com/technoboy10/rssnap) - a Snap! extension for interacting with RSS feeds
   - [Snapmesh](https://github.com/Code-WvS/snapmesh) - cloud variables for Snap!
+  - [Xi](https://github.com/MrYsLab/xi) - allows you to simultaneously connect, monitor and control multiple Arduino, BeagleBone Black and Raspberry Pi boards using Scratch 2.0 or Snap! as a graphical user interface
+  - [s2a_fm](https://github.com/MrYsLab/s2a_fm) - control an Arduino board (a Snap!/Scratch hardware extension for Arduino)
 
 - forks
   - [BeetleBlocks](http://beetleblocks.com) ([source](https://github.com/ericrosenbaum/BeetleBlocks)) - visual programming blocks for 3D-printable design
@@ -19,11 +21,12 @@ Awesome Snap!
   - [turtlestitch](http://www.stitchcode.com/) ([source](https://github.com/backface/turtlestitch)) - turtle graphics for stitchfile generation :de:
 
 - tools
-  - [Snapext](https://github.com/technoboy10/snapext) - python library for creating Snap! extensions
+  - [Snapext](http://github.com/blockext) - python library for creating Snap! extensions
   - [Snap-Server](https://github.com/ucb-snap/snap-server) - a new backend for saving and sharing Snap! projects (see also the `snap` branch)
   - [Snap-Interpreter](https://github.com/bromagosa/snap-interpreter) - a NodeJS Snap! interpreter. You feed it an XML Snap! project file and it runs it.
   - [Snc](https://github.com/nathan/snc) - compiles Snap! projects to JavaScript
   - [Sn](https://github.com/nathan/sn) - Sn is the native Snap! binding for Mac OS X
+  - [Snapin8r](https://hardmath123.github.io/Snapin8r/) ([source](https://github.com/Hardmath123/Snapin8r))
 
 - learning resources
   - [The Beauty and Joy of Computing](https://bjc.berkeley.edu/r) ([source](https://github.com/beautyjoy/bjc-r))
