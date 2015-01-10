@@ -21,7 +21,7 @@ Awesome Snap!
   - [turtlestitch](http://www.stitchcode.com/) ([source](https://github.com/backface/turtlestitch)) - turtle graphics for stitchfile generation :de:
   - [Snapi](https://bromagosa.github.io/Snapi/) ([source](https://github.com/bromagosa/Snapi)) - Snap! with geographics and JSON API features
   - Snapapps [Scribble](https://aidanlane.github.io/snapapps/scribble.html), [ARDrone](https://aidanlane.github.io/snapapps/ardrone.html), [Cellular](https://aidanlane.github.io/snapapps/cellular.html)  ([sources](https://github.com/aidanlane/snapapps)) - 3 special-purpose Snap! modifications
-  - [Snap-graphics](https://github.com/cycomachead/snap-graphics) - Computational photography for introductory computer science curriculum
+  - [Snap-graphics](http://snap.berkeley.edu/snapsource/michael) [source](https://github.com/cycomachead/snap-graphics) - Computational photography for introductory computer science curriculum
 
 - tools
   - [Snapext](http://github.com/blockext) - python library for creating Snap! extensions
@@ -32,8 +32,8 @@ Awesome Snap!
   - [Snapin8r](https://hardmath123.github.io/Snapin8r/) ([source](https://github.com/Hardmath123/Snapin8r))
 
 - learning resources
-  - [The Beauty and Joy of Computing](https://bjc.berkeley.edu/r) ([source](https://github.com/beautyjoy/bjc-r))
-  - [BeyondBlocks](http://beyondblocks.github.io/) ([source](https://github.com/BeyondBlocks/BeyondBlocks.github.io)) - a bridge learning unit that takes you from Snap! to python
+  - [The Beauty and Joy of Computing](http://bjc.berkeley.edu/r) ([source](https://github.com/beautyjoy/bjc-r)) - The official BJC curriculum webpage. ([BJC Homepage](http://bjc.berkeley.edu))
+  - [BeyondBlocks](http://beyondblocks.github.io/) ([source](https://github.com/BeyondBlocks/BeyondBlocks.github.io)) - a bridge learning unit that takes you from Snap*!* to python. This is no longer actively updated. Newer "Besides Blocks" curriculum can be found as part of the BJC project, [here](http://bjc.berkeley.edu/r/course/cs10_fa14.html)
 
 - misc
   - [New Website for UC Berkeley Snap!](https://khotchkiss13.github.io/) ([source](https://github.com/khotchkiss13/khotchkiss13.github.io)) 
