@@ -12,12 +12,14 @@ Awesome Snap!
   - [Snapmesh](https://github.com/Code-WvS/snapmesh) - cloud variables for Snap!
   - [Xi](https://github.com/MrYsLab/xi) - allows you to simultaneously connect, monitor and control multiple Arduino, BeagleBone Black and Raspberry Pi boards using Scratch 2.0 or Snap! as a graphical user interface
   - [s2a_fm](https://github.com/MrYsLab/s2a_fm) - control an Arduino board (a Snap!/Scratch hardware extension for Arduino)
+  - [Snap4Arduino](http://s4a.cat/snap/) ([source](https://github.com/edutec/Snap4Arduino)) - binding Snap! and Arduino together
   - [BirdBrainRobot](http://www.finchrobot.com/software/snap) ([source](https://github.com/BirdBrainTechnologies/BirdBrainRobotServer)) - control the Finch and Hummingbird robot with Snap!
   - [WiiSnap](https://github.com/technoboy10/wiisnap) - interface with a Nintendo Wiimote
   - [Snap-NXT](https://github.com/technoboy10/snap-nxt) - interface with the Mindstorms NXT
   - [Snapmotion](https://github.com/technoboy10/snapmotion) - use Leap Motion controller with the Mindstorms NXT and Snap!
   - [S2](https://github.com/blockext/s2) - control the Parallax S2 robot
   - [snap2speech](https://github.com/technoboy10/snap2speech) - text to speech for Snap!
+  - [Sphero](https://docs.google.com/document/d/11wR53OTnofRtTtxZCmxnCUjIlFQjnGewM21A0vmjtFw/edit) - use Snap! with the Sphero
 
 - forks
   - [BeetleBlocks](http://beetleblocks.com) ([source](https://github.com/ericrosenbaum/BeetleBlocks)) - visual programming blocks for 3D-printable design
