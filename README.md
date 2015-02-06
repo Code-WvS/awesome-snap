@@ -45,6 +45,7 @@ Awesome Snap!
 - learning resources
   - [The Beauty and Joy of Computing](http://bjc.berkeley.edu/r) ([source](https://github.com/beautyjoy/bjc-r)) - The official BJC curriculum webpage. ([BJC Homepage](http://bjc.berkeley.edu))
   - [BeyondBlocks](http://beyondblocks.github.io/) ([source](https://github.com/BeyondBlocks/BeyondBlocks.github.io)) - a bridge learning unit that takes you from Snap*!* to python. This is no longer actively updated. Newer "Besides Blocks" curriculum can be found as part of the BJC project, [here](http://bjc.berkeley.edu/r/course/cs10_fa14.html)
+  - [snap-wiki](https://github.com/Gubolin/snap-wiki) - quick start guide to create your own fork of Snap!
 
 - misc
   - [New Website for UC Berkeley Snap!](https://khotchkiss13.github.io/) ([source](https://github.com/khotchkiss13/khotchkiss13.github.io)) 
