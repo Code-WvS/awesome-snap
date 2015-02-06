@@ -32,6 +32,7 @@ Awesome Snap!
   - [Snap-graphics](http://snap.berkeley.edu/snapsource/michael) [source](https://github.com/cycomachead/snap-graphics) - Computational photography for introductory computer science curriculum
   - [BloP](https://sites.google.com/site/blocklanguages/) ([source](https://sites.google.com/site/blocklanguages/downloads2)) - create your own block language
   - [Mirobot](http://apps.mirobot.io/snap/) ([source](https://github.com/bjpirt/Snap--Build-Your-Own-Blocks)) - adds support for Mirobot
+  - [Snap-BYOW](http://code-wvs.github.io/snap-byow/snap.html) ([source](https://github.com/Code-WvS/snap-byow)) - controlling a Minecraft-like voxel environment in Snap!
 
 - tools
   - [Snapext](http://github.com/blockext) - python library for creating Snap! extensions
