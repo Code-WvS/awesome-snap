@@ -20,6 +20,7 @@ Awesome Snap!
   - [S2](https://github.com/blockext/s2) - control the Parallax S2 robot
   - [snap2speech](https://github.com/technoboy10/snap2speech) - text to speech for Snap!
   - [Sphero](https://docs.google.com/document/d/11wR53OTnofRtTtxZCmxnCUjIlFQjnGewM21A0vmjtFw/edit) - use Snap! with the Sphero
+  - [snap-RPi](https://github.com/pbrown66/snap-RPi) - use the GPIOs of a Raspberry Pi
 
 - forks
   - [BeetleBlocks](http://beetleblocks.com) ([source](https://github.com/ericrosenbaum/BeetleBlocks)) - visual programming blocks for 3D-printable design
