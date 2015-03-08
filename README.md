@@ -24,6 +24,7 @@ Awesome Snap!
 
 - forks
   - [BeetleBlocks](http://beetleblocks.com) ([source](https://github.com/ericrosenbaum/BeetleBlocks)) - visual programming blocks for 3D-printable design
+  - [Gubolin/snap](http://gubolin.github.io/snap/) ([source](https://github.com/Gubolin/snap)) - bleeding-edge version of Snap*!* with lots of additions, like mobile app integration and GitHub login
   - [Rsnap](https://rsnap.herokuapp.com/) ([source](https://github.com/snap-school)) - Snap! with missions and a Ruby backend :fr:
   - [Bags - Build Your Own Relations](http://bags.cs.jmu.edu/) ([source](http://bags.cs.jmu.edu/download.html)) - Snap!-like database queries
   - [CSnap](https://community.csdt.rpi.edu/) ([source](https://github.com/GK-12/Snap--Build-Your-Own-Blocks)) - Bringing Culture and Social Justice to Programming
@@ -34,6 +35,7 @@ Awesome Snap!
   - [BloP](https://sites.google.com/site/blocklanguages/) ([source](https://sites.google.com/site/blocklanguages/downloads2)) - create your own block language
   - [Mirobot](http://apps.mirobot.io/snap/) ([source](https://github.com/bjpirt/Snap--Build-Your-Own-Blocks)) - adds support for Mirobot
   - [Snap-BYOW](http://code-wvs.github.io/snap-byow/snap.html) ([source](https://github.com/Code-WvS/snap-byow)) - controlling a Minecraft-like voxel environment in Snap!
+  - [Snap-YOW](http://code-wvs.github.io/snap-yow/snap.html) ([source](https://github.com/Code-WvS/snap-yow)) - extend the reality with Snap*!* and OpenStreetMap
 
 - tools
   - [Snapext](http://github.com/blockext) - python library for creating Snap! extensions
@@ -47,6 +49,7 @@ Awesome Snap!
   - [The Beauty and Joy of Computing](http://bjc.berkeley.edu/r) ([source](https://github.com/beautyjoy/bjc-r)) - The official BJC curriculum webpage. ([BJC Homepage](http://bjc.berkeley.edu))
   - [BeyondBlocks](http://beyondblocks.github.io/) ([source](https://github.com/BeyondBlocks/BeyondBlocks.github.io)) - a bridge learning unit that takes you from Snap*!* to python. This is no longer actively updated. Newer "Besides Blocks" curriculum can be found as part of the BJC project, [here](http://bjc.berkeley.edu/r/course/cs10_fa14.html)
   - [snap-wiki](https://github.com/Gubolin/snap-wiki) - quick start guide to create your own fork of Snap!
+  - [Byob & Snap! Exercizes](http://www.xleroy.net/ByobTuto/Thumbnails.html) - example projects and pictures of custom blocks
 
 - misc
   - [New Website for UC Berkeley Snap!](https://khotchkiss13.github.io/) ([source](https://github.com/khotchkiss13/khotchkiss13.github.io)) 
