@@ -37,6 +37,7 @@ Awesome Snap!
   - [Snap-BYOW](http://code-wvs.github.io/snap-byow/snap.html) ([source](https://github.com/Code-WvS/snap-byow)) - controlling a Minecraft-like voxel environment in Snap!
   - [Snap-YOW](http://code-wvs.github.io/snap-yow/snap.html) ([source](https://github.com/Code-WvS/snap-yow)) - extend the reality with Snap*!* and OpenStreetMap
   - [DBSnap](http://www.public.asu.edu/~ynsilva/dbsnap/) - learn database queries by snapping blocks
+  - [AIBirds](https://aibirds.org/snap) - build your own Angry Birds AI agent without any programming experience
 
 - tools
   - [Snapext](http://github.com/blockext) - python library for creating Snap! extensions
