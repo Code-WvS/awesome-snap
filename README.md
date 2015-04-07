@@ -52,6 +52,7 @@ Awesome Snap!
   - [BeyondBlocks](http://beyondblocks.github.io/) ([source](https://github.com/BeyondBlocks/BeyondBlocks.github.io)) - a bridge learning unit that takes you from Snap*!* to python. This is no longer actively updated. Newer "Besides Blocks" curriculum can be found as part of the BJC project, [here](http://bjc.berkeley.edu/r/course/cs10_fa14.html)
   - [snap-wiki](https://github.com/Gubolin/snap-wiki) - quick start guide to create your own fork of Snap!
   - [Byob & Snap! Exercizes](http://www.xleroy.net/ByobTuto/Thumbnails.html) - example projects and pictures of custom blocks
+  - [SnapPy](https://github.com/Sktank/SnapPy) - a python tutorial using Snap!
 
 - misc
   - [New Website for UC Berkeley Snap!](https://khotchkiss13.github.io/) ([source](https://github.com/khotchkiss13/khotchkiss13.github.io)) 
