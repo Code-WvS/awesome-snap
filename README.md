@@ -23,6 +23,7 @@ Awesome Snap!
   - [snap-RPi](https://github.com/pbrown66/snap-RPi) - use the GPIOs of a Raspberry Pi
 
 - forks
+  - [NetsBlox](https://netsblox.org) ([source](https://github.com/netsblox/netsblox)) - visual programming environment for developing networked applications and distributed computing. Supports additional features such as undo and integration of external APIs including Google Maps and OpenWeatherMap.
   - [BeetleBlocks](http://beetleblocks.com) ([source](https://github.com/ericrosenbaum/BeetleBlocks)) - visual programming blocks for 3D-printable design
   - [Gubolin/snap](http://gubolin.github.io/snap/) ([source](https://github.com/Gubolin/snap)) - bleeding-edge version of Snap*!* with lots of additions, like mobile app integration and GitHub login
   - [Rsnap](https://rsnap.herokuapp.com/) ([source](https://github.com/snap-school)) - Snap! with missions and a Ruby backend :fr:
