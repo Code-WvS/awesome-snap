@@ -44,6 +44,7 @@ Awesome Snap!
   - [Snap-Cloud](https://github.com/c2stem/snap-cloud) - An open source implementation of the SnapCloud backend for hosting your own Snap! server
   - [Snapext](http://github.com/blockext) - python library for creating Snap! extensions
   - [Snap-Server](https://github.com/ucb-snap/snap-server) - a new backend for saving and sharing Snap! projects (see also the `snap` branch)
+  - [Snap2Js](https://github.com/netsblox/snap2js) - A Snap! to JavaScript cross compiler supporting configurable primitive block behavior, enforcing maximum execution duration, and conforms to the concurrency model of Snap! and Scratch.
   - [Snap-Interpreter](https://github.com/bromagosa/snap-interpreter) - a NodeJS Snap! interpreter. You feed it an XML Snap! project file and it runs it.
   - [Snc](https://github.com/nathan/snc) - compiles Snap! projects to JavaScript
   - [Sn](https://github.com/nathan/sn) - Sn is the native Snap! binding for Mac OS X
