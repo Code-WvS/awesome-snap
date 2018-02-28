@@ -41,6 +41,7 @@ Awesome Snap!
   - [AIBirds](https://aibirds.org/snap) - build your own Angry Birds AI agent without any programming experience
 
 - tools
+  - [Snap-Cloud](https://github.com/c2stem/snap-cloud) - An open source implementation of the SnapCloud backend for hosting your own Snap! server
   - [Snapext](http://github.com/blockext) - python library for creating Snap! extensions
   - [Snap-Server](https://github.com/ucb-snap/snap-server) - a new backend for saving and sharing Snap! projects (see also the `snap` branch)
   - [Snap-Interpreter](https://github.com/bromagosa/snap-interpreter) - a NodeJS Snap! interpreter. You feed it an XML Snap! project file and it runs it.
